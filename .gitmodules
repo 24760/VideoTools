@@ -1,0 +1,6 @@
+[submodule "படபட்டறை"]
+	path = படபட்டறை
+	url = https://github.com/247i/CamStudio.git
+[submodule "காஉப"]
+	path = காஉப
+	url = https://github.com/247i/VLC.git
